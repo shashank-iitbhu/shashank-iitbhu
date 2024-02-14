@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Rust**
 
+- 🖥️ Alternate Github Account [ishashankmittal](https://github.com/ishashankmittal)
+
 - 💬 Ask me about **Rust, Go, Python and DevOps.**
 
 - 📫 How to reach me **shashank.mittal.mec22@itbhu.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vQ55Y9pRVJG4ddK1vu24A9WMbZtRxoEG/view?usp=sharing](https://drive.google.com/file/d/1vQ55Y9pRVJG4ddK1vu24A9WMbZtRxoEG/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1vQ55Y9pRVJG4ddK1vu24A9WMbZtRxoEG/view?usp=sharing)
 
 - ⚡ Fun fact **My code works! I have no idea, why?**
 
